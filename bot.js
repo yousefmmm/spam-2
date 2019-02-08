@@ -4,10 +4,10 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("")
+let channel =     client.channels.get("543482206295949313")
 setInterval(function() {
-channel.send(``);
+channel.send(`مين غني ناو`);
 }, 30)
 })
 
-client.login(process.env.BOT_TOKEN);
+client.login("NTI5MDcxNDI2MzM1MDE0OTMz.Dz9Msg.ZFSLUfVIjd_mL_OzcP4RTDRtFHQ");
